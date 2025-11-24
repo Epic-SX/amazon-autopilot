@@ -1,0 +1,37 @@
+{
+  "listings": [
+    {
+      "listing_id": "e4385035-7eab-4761-9ce0-e51e76dbc3f8",
+      "asin": "B08N5WRWNW",
+      "jp_asin": "B08N5WRWNW",
+      "us_asin": null,
+      "title": "カメラ",
+      "jp_price": 0.0,
+      "us_price": 0.0,
+      "listing_price": 3000.0,
+      "profit_amount": 0.0,
+      "profit_rate": 0.0,
+      "status": "draft",
+      "stock_status": "unknown",
+      "shipping_available": false,
+      "last_checked": "2025-11-21T16:54:04.254699",
+      "created_at": "2025-11-21T16:54:04.256203",
+      "updated_at": "2025-11-21T16:54:04.256203",
+      "risk_score": 0.0,
+      "category": null,
+      "manufacturer": null,
+      "weight": null,
+      "dimensions": {},
+      "international_shipping_cost": 0.0,
+      "domestic_shipping_cost": 0.0,
+      "customs_fee": 0.0,
+      "transfer_fee": 0.0,
+      "amazon_fee": 0.0,
+      "minimum_profit_threshold": 3000.0,
+      "source_url": null,
+      "notes": null,
+      "metadata": {}
+    }
+  ],
+  "updated_at": "2025-11-21T16:54:04.256203"
+}
